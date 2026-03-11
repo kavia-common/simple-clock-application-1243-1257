@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-clock-application-1243-1257/frontend_clock_ui"
+}
